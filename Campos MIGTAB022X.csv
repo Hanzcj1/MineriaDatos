@@ -1,0 +1,8 @@
+NombreColumna;Obligatorio
+ts_operacion;S
+ts_dividendo;S
+ts_fecha;S
+ts_concepto;S
+ts_porcentaje;S
+ts_secuencial;S
+ts_porcentaje_efa;S

@@ -1,0 +1,8 @@
+NombreColumna;Obligatorio
+da_operacion;S
+da_nemonico;S
+da_int;N
+da_currency;N
+da_float;N
+da_date;N
+da_string;N

@@ -1,0 +1,17 @@
+NombreColumna;Obligatorio
+di_operacion;S
+di_dividendo;S
+di_fecha_ini;S
+di_fecha_ven;S
+di_de_capital;S
+di_de_interes;S
+di_gracia;S
+di_gracia_disp;S
+di_estado;S
+di_dias_cuota;S
+di_intento;S
+di_prorroga;S
+di_fecha_can;S
+di_subs_cuota;N
+di_subs_acumulado;N
+di_compra_int_vendedor;N

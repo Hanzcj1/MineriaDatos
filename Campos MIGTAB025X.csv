@@ -1,0 +1,8 @@
+NombreColumna;Obligatorio
+red_operacion;S
+red_concepto;S
+red_referencial;N
+red_signo;N
+red_factor;N
+red_porcentaje;N
+red_fecha;S

@@ -1,0 +1,11 @@
+NombreColumna;Obligatorio
+am_operacion;S
+am_dividendo;S
+am_concepto;S
+am_estado;S
+am_periodo;S
+am_cuota;S
+am_gracia;S
+am_pagado;S
+am_acumulado;S
+am_secuencia;S

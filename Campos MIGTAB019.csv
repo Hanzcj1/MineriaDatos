@@ -1,0 +1,13 @@
+NombreColumna;Obligatorio
+ro_operacion;S
+ro_concepto;S
+ro_signo;N
+ro_factor;N
+ro_referencial;N
+ro_signo_reajuste;N
+ro_factor_reajuste;N
+ro_referencial_reajuste;N
+ro_valor;N
+ro_porcentaje_efa;N
+ro_garantia;S
+ro_financiado;N
