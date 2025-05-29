@@ -124,8 +124,4 @@ op_compra_devengando;N
 op_vta_comprador;N
 op_vta_fecha;N
 op_vta_fecha_recompra;N
-CREAGE;
-CRECDLIN;
-CRENROPR;
-NUMMIG;
-CAMPOMIG;
+op_fecha_corte;N
